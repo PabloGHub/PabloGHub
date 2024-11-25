@@ -1,12 +1,8 @@
 Soy Sui  
 > aunque no me llamo asi :)
 ---
-
->
-> y  *el segundo es mas de pachangeo*
-
 |¿Que hago?| Descripcion |
 | -------- | ------- |
-| [FarlandsCoreMod] | $250    |
-| [Canal_1](https://www.youtube.com/@SoyPZero/videos) | $80     |
-| [Canal_2](https://www.youtube.com/@SoySui)    | $420    |
+| [FarlandsCoreMod](https://github.com/FarlandsModdingTeam/FarlandsCoreMod) | Es un mod del juego Farladns al que me uni hace un tiempo. |
+| [Canal_1](https://www.youtube.com/@SoyPZero/videos) | Canal mas "serio" al que me gusta hacer videos por recreo. |
+| [Canal_2](https://www.youtube.com/@SoySui)    | Canal menos serio donde hago mas el tonto. |
